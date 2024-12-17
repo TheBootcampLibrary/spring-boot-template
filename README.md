@@ -9,7 +9,7 @@
 
 ---
 
-## 1. Sprint Initializer
+## 1. Spring Initializer
 ![Spring Initializer](./docs/spring-initializer-page.png)
 
 ---
