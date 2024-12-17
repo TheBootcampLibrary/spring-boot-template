@@ -136,7 +136,7 @@ USE nombreBD;
 ---
 
 
-### 5. Configuración de Base de Datos (application.properties)**
+### 5. Configuración de Base de Datos (application.properties)
 
 ```properties
 spring.application.name=template
