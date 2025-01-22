@@ -42,6 +42,7 @@ template
  ┃ ┃ ┃ ┣ static
  ┃ ┃ ┃ ┣ templates
  ┃ ┃ ┃ ┗ application.properties
+ ┃ ┃ ┃ ┗ import.sql
  ┃ ┗ test
  ┃ ┃ ┗ java
  ┃ ┃ ┃ ┗ cl
